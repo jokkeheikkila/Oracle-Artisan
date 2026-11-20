@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# SQL*Plus / SQLcl / Oracle client artifacts
+*.lst
+*.log
+sqlnet.log
+afiedt.buf
