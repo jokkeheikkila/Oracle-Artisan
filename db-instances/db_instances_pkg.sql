@@ -1,4 +1,4 @@
-create or replace package db_instances_pkg as
+create or replace package db_instances_pkg authid current_user as
 /*****************************************************************
 * Package Name: DB_INSTANCES_PKG
 *
